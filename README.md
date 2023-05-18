@@ -23,4 +23,6 @@ Please follow below instructions to run this project
 7. Next it will ask for openai api key. please provide your api key generated from https://platform.openai.com/account/api-keys
 8. Wait for sometime and knowledge graph will be generated. You can also use list of entities and relationships for your projects.
 
+![supplychainKG](https://github.com/prateekkale/kg-gpt-python/assets/34265183/e4a5ec62-4eb0-4448-a371-c3ee182548bb)
+
 
