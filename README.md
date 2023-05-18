@@ -1,5 +1,6 @@
 # kg-gpt-python
-This is small project to showcase how we can use chatgpt api to generate knowledge graphs using python. Idea is not to showcase fancy graphs but to extract entities and their relationships
+This is small project to showcase how we can use chatgpt api to generate knowledge graphs using python. Idea is not to showcase fancy graphs but to extract entities and their relationships.
+Prompt reference is taken from https://github.com/varunshenoy/GraphGPT
 
 # Requirements
 Make sure you have python 3.8 or higher version and below python packages installed.
