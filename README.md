@@ -16,7 +16,7 @@ Please generate and save your open ai api key from here https://platform.openai.
 Please follow below instructions to run this project
 1. Download or clone the project repo.
 2. Install required python packges.
-3. Open cmd and Goto ->  kg-gpt-python folder.
+3. Open cmd and Goto ->  knowledgegraph-gpt-python folder.
 4. Run "python3 knowledgegraph.py"
 5. After running it will ask for knowledge base file name where you have your text, for testing i have kept supplychain.txt in knowledgebase folder. You can add any text file in this folder for your purpose.
 6. For testing give "supplychain.txt" as input.
